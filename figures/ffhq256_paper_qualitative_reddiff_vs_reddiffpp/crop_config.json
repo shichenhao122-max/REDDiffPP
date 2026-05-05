@@ -1,0 +1,30 @@
+{
+  "srx8_26": {
+    "task": "SR x8",
+    "sample_id": "26",
+    "crop_box": [0.37, 0.67, 0.32, 0.16],
+    "focus": "mouth region",
+    "inset_loc": "top_right"
+  },
+  "srx8_46": {
+    "task": "SR x8",
+    "sample_id": "46",
+    "crop_box": [0.36, 0.67, 0.34, 0.16],
+    "focus": "mouth region",
+    "inset_loc": "top_right"
+  },
+  "motion_51": {
+    "task": "Motion Deblur",
+    "sample_id": "51",
+    "crop_box": [0.06, 0.43, 0.24, 0.30],
+    "focus": "ear / side-face region",
+    "inset_loc": "top_right"
+  },
+  "motion_59": {
+    "task": "Motion Deblur",
+    "sample_id": "59",
+    "crop_box": [0.34, 0.62, 0.32, 0.17],
+    "focus": "mouth region",
+    "inset_loc": "top_right"
+  }
+}

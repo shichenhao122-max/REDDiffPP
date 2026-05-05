@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Large or private experiment artifacts.
+logs/
+wandb/
+outputs/
+exps/
+checkpoints/
+data/
+results/
+
+# Raw model/data artifacts should not be committed to this review package.
+*.pt
+*.pth
+*.npy
+*.npz
+*.out
+*.err

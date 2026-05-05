@@ -1,0 +1,22 @@
+Selected sample ids: 52,53,55,54,56,76,50,46,74,57,1,29,75,3,49,51,2
+
+raw_x8: 17 bad cases
+- REDDiffPP: exps/inference/multi-coil-mri-knee/REDDiffPPRSSInit/reddiffpp_mri_raw_x8_rssinit_test_stage3rerankbest_1l9ws8zp
+- REDDiff: exps/inference/multi-coil-mri-knee/REDDiff/reddiff_mri_raw_x8
+- sample 52: REDDiffPP=28.49, REDDiff=20.32, delta=-8.17
+- sample 53: REDDiffPP=28.44, REDDiff=19.60, delta=-8.84
+- sample 55: REDDiffPP=27.19, REDDiff=27.85, delta=+0.67
+- sample 54: REDDiffPP=27.91, REDDiff=26.24, delta=-1.66
+- sample 56: REDDiffPP=27.68, REDDiff=28.25, delta=+0.57
+- sample 76: REDDiffPP=26.35, REDDiff=24.29, delta=-2.06
+- sample 50: REDDiffPP=28.64, REDDiff=29.36, delta=+0.72
+- sample 46: REDDiffPP=27.50, REDDiff=28.13, delta=+0.64
+- sample 74: REDDiffPP=26.37, REDDiff=24.62, delta=-1.75
+- sample 57: REDDiffPP=27.03, REDDiff=27.54, delta=+0.51
+- sample 1: REDDiffPP=23.18, REDDiff=23.19, delta=+0.02
+- sample 29: REDDiffPP=28.04, REDDiff=28.48, delta=+0.44
+- sample 75: REDDiffPP=26.93, REDDiff=27.27, delta=+0.34
+- sample 3: REDDiffPP=25.21, REDDiff=23.75, delta=-1.46
+- sample 49: REDDiffPP=28.42, REDDiff=22.11, delta=-6.31
+- sample 51: REDDiffPP=29.46, REDDiff=20.86, delta=-8.60
+- sample 2: REDDiffPP=23.73, REDDiff=24.32, delta=+0.59

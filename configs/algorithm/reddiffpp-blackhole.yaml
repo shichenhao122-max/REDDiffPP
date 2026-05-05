@@ -1,0 +1,12 @@
+name: REDDiffPP
+method:
+  _target_: algo.reddiffpp.REDDiffPP
+  # The paper/repo do not provide tuned blackhole-specific REDDiffPP values.
+  # These defaults start from the paper's blackhole REDDiff settings plus the
+  # repo's generic REDDiffPP sigma_data/batch_size choices.
+  num_steps: 1000
+  observation_weight: 4e-4
+  base_lr: 5e-2
+  base_lambda: 0.25
+  sigma_data: 0.5
+  batch_size: 4

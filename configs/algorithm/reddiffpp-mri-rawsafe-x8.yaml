@@ -1,0 +1,11 @@
+name: REDDiffPPRawSafe
+method:
+  _target_: algo.reddiffpp_rawsafe.REDDiffPPRawSafe
+  num_steps: 2000
+  observation_weight: 7.924398360068711
+  base_lr: 0.0051612844883655576
+  base_lambda: 0.018338868563344452
+  sigma_data: 0.08217064512705291
+  batch_size: 4
+  lambda_schedule_type: reddiffpp
+  lambda_cap: 0.2

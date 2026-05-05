@@ -1,0 +1,15 @@
+name: REDDiffPPRSSInit
+method:
+  _target_: algo.reddiffpp_rssinit.REDDiffPPRSSInit
+  num_steps: 4000
+  observation_weight: 3.3130657690439422
+  base_lr: 0.005851915152205663
+  base_lambda: 0.009013945706823637
+  sigma_data: 0.11218690241392872
+  batch_size: 4
+  init_mode: rss
+  init_alpha: 1.0
+  rss_scale: 1.0
+  phase_mode: mvue
+  fallback_to_zero: false
+  fallback_tol: 1.0

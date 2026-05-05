@@ -1,0 +1,16 @@
+name: REDDiffPP
+method:
+  _target_: algo.reddiffpp.REDDiffPP
+  num_steps: 2000
+  observation_weight: 8584.180295812006
+  base_lr: 0.08469946562358326
+  base_lambda: 0.006281802071017075
+  sigma_data: 1.627403108893482
+  batch_size: 5
+
+    # num_steps: 3500
+    # observation_weight: 2775.1962240902576
+    # base_lr: 0.028990396140618695
+    # base_lambda: 0.0027374131188038597
+    # sigma_data: 2.2100990670888407
+    # batch_size: 6
